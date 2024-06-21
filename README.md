@@ -1,1 +1,1 @@
-# -classification-Rooms-with-effnet
+# classification-rooms-with-mobilenet
